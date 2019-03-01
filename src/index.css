@@ -1,4 +1,4 @@
-.tweet { 
+/* .tweet { 
     border: 1px solid #ccc; 
     width: 564px; min-height: 68px; 
     padding: 10px; 
@@ -45,4 +45,35 @@
     font-size: 13px; 
     margin-left: 6px; 
     font-weight: bold; 
+} */
+
+
+/* Envelop example */
+/* .cover {
+    min-height : 468px;
+    width: 700px;
+    border: 1px solid black;
+    margin-left: 25%;
+    margin-top: 5%;
+    padding: 20px;
 }
+.to {
+    padding-top: 20%;
+    padding-left: 35%;
+    width: 40%;
+    font-weight: bold;
+    font-size: 20px;
+}
+.from {
+    font-weight: bold;
+    font-size: 20px;
+}
+span {
+    display: block;
+    max-width: 50%;
+}
+.photo {
+    height: 50px;
+    width: 50px;
+    border: 1px solid black;
+} */
